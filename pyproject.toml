@@ -38,7 +38,7 @@ dependencies = [
   "python-multipart==0.0.18",
   "pydantic==2.12.5",
   "pyyaml==6.0.2",
-  "protobuf==6.33.2",
+  "protobuf==6.33.5",
   "redis==5.2.1",
   "unstructured[all-docs]==0.18.21",
   "uvicorn[standard]==0.32.0",
